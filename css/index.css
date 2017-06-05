@@ -14,8 +14,8 @@ h2 {
 }
 
 body {
-	background-image: url("http://cdn.wallpapersafari.com/51/92/zH98tj.jpg");
-	background-repeat: repeat;
+	background-image: url("../images/zH98tj.jpg");
+	background-repeat: repeat-y;
 }
 .content-wrapper {
 	width: auto;
